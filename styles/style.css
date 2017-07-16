@@ -1,10 +1,10 @@
 body{
 	background: gray;
 	font-family: arial;
-	padding-left: 20px;
+	padding-left: 5%;
 }
 p{
-
+	padding: 20px;
 }
 .btn{
 	padding: 10px;
@@ -25,4 +25,15 @@ p{
 }
 .btn-twitter{
 	background: #1CBEE1;
+}
+.banner:hover{
+	background: red;
+	text-align: center;
+	color: white;
+
+}
+.banner:hover{
+	
+	transform: translateX(0px,500px);
+	transition: all ease 4s;
 }
