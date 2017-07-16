@@ -1,6 +1,7 @@
 body{
 	background: gray;
 	font-family: arial;
+	padding-left: 20px;
 }
 p{
 
@@ -9,14 +10,19 @@ p{
 	padding: 10px;
 	border-radius: 5px;
 	border:2px solid steelblue;
+	color: white;
 }
 .btn:hover{
 
 	border:2px solid white;
 	transform: scale(1.5);
 	transition: all ease 1s;
+	margin: 20px;
 }
 .btn-facebook{
 	background: steelblue;
 	color: white;
+}
+.btn-twitter{
+	background: #1CBEE1;
 }
