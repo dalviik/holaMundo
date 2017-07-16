@@ -26,14 +26,15 @@ p{
 .btn-twitter{
 	background: #1CBEE1;
 }
-.banner:hover{
+.banner h2{
 	background: red;
 	text-align: center;
 	color: white;
+	margin: 0 auto;
 
 }
-.banner:hover{
+.banner h2:hover{
 	
-	transform: translateX(0px,500px);
+	transform: scale(1.6);
 	transition: all ease 4s;
 }
