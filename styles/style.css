@@ -15,7 +15,7 @@ p{
 .btn:hover{
 
 	border:2px solid white;
-	transform: scale(1.5);
+	transform: scale(1.2);
 	transition: all ease 1s;
 	margin: 20px;
 }
@@ -36,5 +36,5 @@ p{
 .banner h2:hover{
 	
 	transform: scale(1.6);
-	transition: all ease 4s;
+	transition: all ease 2s;
 }
