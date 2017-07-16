@@ -8,6 +8,13 @@ p{
 .btn{
 	padding: 10px;
 	border-radius: 5px;
+	border:2px solid steelblue;
+}
+.btn:hover{
+
+	border:2px solid white;
+	transform: scale(1.5);
+	transition: all ease 1s;
 }
 .btn-facebook{
 	background: steelblue;
